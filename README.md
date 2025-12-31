@@ -1,5 +1,5 @@
 ## Demo:
-http://labs.fluxo.art.br/transit-debate/
+https://vancouver-transit-referendum.lucianofrizzera.com/
 
 # About
 Between January and may 2015 Metro Vancouver was immersed in a debate about public investments in transit for the next 30 years. The topic became controversial when Mayor’s Council proposed to increase the sales taxes to fund the project, and a referendum was called to decide about the adoption of this new revenue sources for Metro Vancouver transportation.
